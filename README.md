@@ -8,9 +8,10 @@ The current project page provides [pytorch](http://pytorch.org/) code that imple
 
 
 
+
 # Overview of PPEN
 
-[PPEN.pdf](https://github.com/user-attachments/files/18309627/PPEN.pdf)
+<img width="1870" alt="PPEN" src="https://github.com/user-attachments/assets/97be9720-dd42-44fe-911e-77ba3cb0400f" />
 
 
 ## 介绍
