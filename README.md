@@ -24,10 +24,18 @@ The model uses the CUB, SUN, and AWA2 datasets.
 
 [AWA2 Dataset](https://cvml.ista.ac.at/AwA2/)
 
+The pretrained parameters, including the ResNet pretrained weights and the outputs of the GloVe model, have been included in the project.
 
-## 贡献
+```train
+cd /GEMZSL/tools
+python train.py
+```
 
-欢迎贡献！如果你创建了新的模板或对现有模板有任何改进，请随时提交拉取请求。
+
+## Training Settings
+
+The files are stored in this directory: config/GEMZSL
+
 
 If you use our work in your research please cite us:
 
