@@ -1,4 +1,4 @@
-# PPEN
+# Part in Part Embedding Network for Zero-Shot Learning [ICASSP 2025]
 The current project page provides [pytorch](http://pytorch.org/) code that implements the following paper:   
 **Title:**      "Part in Part Embedding Network for Zero-Shot Learning"
 
@@ -6,13 +6,11 @@ The current project page provides [pytorch](http://pytorch.org/) code that imple
 
 ## Citation
 
-# GitHub个人主页README模板集
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/dahezhiquan/Github-personal-homepage/blob/main/LICENSE)
 
-> 一个收集了精心设计和整理的GitHub个人主页README模板的项目，让你的个人主页更加独特和专业！
+# Overview of PPEN
 
-![image](https://github.com/dahezhiquan/Github-personal-homepage/assets/76278560/93701e5b-4263-4aec-ad44-b3712fb50688)
+[PPEN.pdf](https://github.com/user-attachments/files/18309627/PPEN.pdf)
 
 
 ## 介绍
